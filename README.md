@@ -1,2 +1,2 @@
-# Data-Structures-and-Algorithms
+# Data Structures & Algorithms
 Questions Solved from various coding platforms 
