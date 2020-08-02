@@ -39,7 +39,19 @@ class Solution:
             return True
         else:
             return False
-            
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+***********************************************************************************************************************************************************************
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+''' The istitle() returns True if the string is a titlecased string otherwise it returns False.
+
+what is titlecased ?
+
+String which has the first character in each word Uppercase and remaining all characters Lowercase alphabets. '''
+
+def detectCapitalUse(self, word):
+    return word.isupper() or word.islower() or word.istitle()
         
         
         
