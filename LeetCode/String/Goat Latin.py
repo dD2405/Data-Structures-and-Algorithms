@@ -15,9 +15,7 @@ The rules of Goat Latin are as follows:
 
 Return the final sentence representing the conversion from S to Goat Latin. 
 
- 
-
-Example 1:
+ Example 1:
 
 Input: "I speak Goat Latin"
 Output: "Imaa peaksmaaa oatGmaaaa atinLmaaaaa"
